@@ -1,0 +1,27 @@
+[
+    {
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password_digest": "hashed_password_123"
+    },
+    {
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "password_digest": "hashed_password_456"
+    },
+    {
+      "username": "alice_jackson",
+      "email": "alice@example.com",
+      "password_digest": "hashed_password_789"
+    },
+    {
+      "username": "bob_carter",
+      "email": "bob@example.com",
+      "password_digest": "hashed_password_abc"
+    },
+    {
+      "username": "emma_wilson",
+      "email": "emma@example.com",
+      "password_digest": "hashed_password_def"
+    }
+  ]  
