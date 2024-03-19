@@ -1,25 +1,30 @@
 [
     {
+      "_id": "65f9a82e38735e11e39e8659",
       "username": "john_doe",
       "email": "john@example.com",
       "password_digest": "hashed_password_123"
     },
     {
+      "_id": "65f9a82e38735e11e39e865a",
       "username": "jane_smith",
       "email": "jane@example.com",
       "password_digest": "hashed_password_456"
     },
     {
+      "_id": "65f9a82e38735e11e39e865b",
       "username": "alice_jackson",
       "email": "alice@example.com",
       "password_digest": "hashed_password_789"
     },
     {
+      "_id": "65f9a82e38735e11e39e865c",
       "username": "bob_carter",
       "email": "bob@example.com",
       "password_digest": "hashed_password_abc"
     },
     {
+      "_id": "65f9a82e38735e11e39e865d",
       "username": "emma_wilson",
       "email": "emma@example.com",
       "password_digest": "hashed_password_def"

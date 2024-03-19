@@ -60,9 +60,14 @@ export const getUserByEmail = async (request, response) => {
 };
 
 export const createUser = async (request, response) => {
+    try {
     const user = new User(request.body);
     await user.save();
     response.status(201).json(user);
+    } catch (error) {
+        console.error(error);
+        response.status(500).json({ error: error.message });
+    }
 };
 
 export const updateUser = async (request, response) => {
@@ -72,7 +77,7 @@ export const updateUser = async (request, response) => {
         response.status(201).json(user);
     }  catch (error) {
         console.error(error);
-        res.status(500).json({ error: error.message });
+        response.status(500).json({ error: error.message });
     }
 };
 
@@ -88,6 +93,6 @@ export const deleteUser = async (request, response) => {
         throw new Error("User not found!");
     } catch (error) {
         console.error(error);
-        res.status(500).json({ error: error.message });
+        response.status(500).json({ error: error.message });
       }
 };

@@ -2,7 +2,7 @@ import { Router } from "express";
 import movieRoutes from "./movies.js";
 import followRoutes from "./follows.js";
 import userRoutes from "./users.js";
-import reviewRoutes from "./reviews.js";
+// import reviewRoutes from "./reviews.js";
 
 const router = Router();
 

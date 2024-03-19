@@ -27,9 +27,14 @@ export const getFollow = async (request, response) => {
 };
 
 export const createFollow = async (request, response) => {
+    try{
     const follow = new Follow(request.body);
     await follow.save();
     response.status(201).json(follow);
+    } catch (error) {
+        console.error(error);
+        response.status(500).json({ error: error.message });
+    }
 };
 
 export const updateFollow = async (request, response) => {
