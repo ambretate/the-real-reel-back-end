@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 const Schema = mongoose.Schema
 
 let MovieSchema = new Schema({
-    "_id": { type: Number }, 
+    "_id": { type: String }, 
     "title": { type: String },
     "genre": { type: String },
     "image": { type: String },
