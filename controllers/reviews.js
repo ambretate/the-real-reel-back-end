@@ -40,11 +40,11 @@ export const createReview = async (request, response) => {
 export const updateReview = async (request, response) => {
     try {
         const { id } = request.params;
-        const review = await Review.findByIdandUpdate(id, request.body);
+        const review = await Review.findByIdAndUpdate(id, request.body);
         response.status(201).json(review);
     }  catch (error) {
         console.error(error);
-        res.status(500).json({ error: error.message });
+        response.status(500).json({ error: error.message });
     }
 };
 
@@ -60,6 +60,6 @@ export const deleteReview = async (request, response) => {
         throw new Error("Review not found!");
     } catch (error) {
         console.error(error);
-        res.status(500).json({ error: error.message });
+        response.status(500).json({ error: error.message });
       }
 };
