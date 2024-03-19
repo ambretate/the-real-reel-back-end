@@ -1,5 +1,5 @@
-import bcrypt from "bcrypt";
-import jwt from "jsonwebtoken";
+import { bcrypt } from "bcrypt";
+import { jwt } from "jsonwebtoken";
 import User from "../models/User.js";
 
 let SALT_ROUNDS = 11;
@@ -112,7 +112,7 @@ export const deleteUser = async (request, response) => {
 
 export const signUp = async (request, response) => {
     try {
-        const { username, email, password } = req.body;
+        const { username, email, password } = request.body;
         const password_digest = await bcrypt.hash(password, SALT_ROUNDS);
         const user = new User ({
             username,
@@ -136,5 +136,3 @@ export const signUp = async (request, response) => {
         response.status(400).json( {error: error.message });
     }
 };
-
-export const signIn = async (request, response)
