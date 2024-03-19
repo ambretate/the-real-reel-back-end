@@ -1,0 +1,27 @@
+[
+    {
+      "userID": "60baf4e3e1a1b61d54e92087",
+      "movieID": "5fb63ecab5ab97135cd4ddff",
+      "title": "Amazing movie!",
+      "review": "This movie is absolutely fantastic! I was hooked from start to finish.",
+      "hasSpoilers": false
+      
+    },
+    {
+      "userID": "60c3f3e537bf4241e072e146",
+      "movieID": "5fb63ecab5ab97135cd4deff",
+      "title": "Disappointing",
+      "review": "I had high expectations for this movie, but unfortunately, it fell short for me.",
+      "hasSpoilers": false
+      
+    },
+    {
+      "userID": "60af4e3e1a1b61d54e920871",
+      "movieID": "5fb63ecab5ab97135cd4ddfe",
+      "title": "Must-watch",
+      "review": "An absolute gem of a movie! I highly recommend it to everyone.",
+      "hasSpoilers": false
+      
+    }
+  ]
+  
