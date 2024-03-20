@@ -1,6 +1,7 @@
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 import User from "../models/User.js";
+import Review from "../models/Review.js"
 
 let SALT_ROUNDS = 11;
 let TOKEN_KEY = "thisisagoodkeyright";
@@ -161,6 +162,7 @@ export const verify = async (req, res) => {
   try {
     const token = req.headers.authorization.split(" ")[1];
     const payload = jwt.verify(token, TOKEN_KEY);
+    console.log(payload)
     if (payload) {
       res.json(payload);
     }
@@ -194,9 +196,10 @@ export const getUserTimeline = async (request, response) => {
     const payload = jwt.verify(token, TOKEN_KEY);
 
     if (payload) {
-      const follows = await User.findById(payload.id).select("following")
+      const user = await User.findById(payload.id).select("following")
+      console.log(user)
 
-      const timelinePromises = follows.map((followedUser) => {
+      const timelinePromises = user.following.map((followedUser) => {
         return Review.findOne({ userID: followedUser._id}).sort({ createdAt: -1}).populate("userID")
       })
       
