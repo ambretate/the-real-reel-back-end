@@ -43,7 +43,7 @@ export const getUser = async (request, response) => {
 export const getUserByUsername = async (request, response) => {
   try {
     const { username } = request.params;
-    const user = await User.findOne(username);
+    const user = await User.findOne({username});
 
     if (user) {
       return response.json(user);
@@ -59,7 +59,7 @@ export const getUserByUsername = async (request, response) => {
 export const getUserByEmail = async (request, response) => {
   try {
     const { email } = request.params;
-    const user = await User.findOne(email);
+    const user = await User.findOne({email});
 
     if (user) {
       return response.json(user);
@@ -72,17 +72,7 @@ export const getUserByEmail = async (request, response) => {
   }
 };
 
-export const createUser = async (request, response) => {
-  try {
-    const user = new User(request.body);
-    await user.save();
-    response.status(201).json(user);
-  } catch (error) {
-    console.error(error);
-    response.status(500).json({ error: error.message });
-  }
-};
-
+// Make sure to check token first
 export const updateUser = async (request, response) => {
   try {
     const { id } = request.params;
@@ -94,6 +84,7 @@ export const updateUser = async (request, response) => {
   }
 };
 
+// Make sure to check token first
 export const deleteUser = async (request, response) => {
   try {
     const { id } = request.params;
@@ -118,6 +109,8 @@ export const signUp = async (request, response) => {
             username,
             email,
             password_digest,
+            following: [],
+            followers: []
         });
 
         await user.save();
@@ -136,3 +129,106 @@ export const signUp = async (request, response) => {
         response.status(400).json( {error: error.message });
     }
 };
+
+export const signIn = async (req, res) => {
+  try {
+    const { email, password } = req.body;
+    
+    const user = await User.findOne({ email: email }).select(
+      "username email password_digest"
+    );
+
+    if (await bcrypt.compare(password, user.password_digest)) {
+      const payload = {
+        id: user._id,
+        username: user.username,
+        email: user.email,
+        exp: parseInt(exp.getTime() / 1000),
+      };
+
+      const token = jwt.sign(payload, TOKEN_KEY);
+      res.status(201).json({ token });
+    } else {
+      res.status(401).send("Invalid Credentials");
+    }
+  } catch (error) {
+    console.log(error.message);
+    res.status(500).json({ error: error.message });
+  }
+};
+
+export const verify = async (req, res) => {
+  try {
+    const token = req.headers.authorization.split(" ")[1];
+    const payload = jwt.verify(token, TOKEN_KEY);
+    if (payload) {
+      res.json(payload);
+    }
+  } catch (error) {
+    console.log(error.message);
+    res.status(401).send("Not Authorized");
+  }
+};
+
+export const getFollows = async (request, response) => {
+  try {
+    const token = request.headers.authorization.split(" ")[1];
+    const payload = jwt.verify(token, TOKEN_KEY);
+
+    if (payload) {
+      const follows = await User.findById(payload.id).select(
+        "followers following"
+      ).populate("followers following")
+      response.json(follows);
+    }
+
+  } catch (error) {
+      console.error(error);
+      response.status(500).json({ error: error.message });
+  }
+};
+
+export const getUserTimeline = async (request, response) => {
+  try {
+    const token = request.headers.authorization.split(" ")[1];
+    const payload = jwt.verify(token, TOKEN_KEY);
+
+    if (payload) {
+      const follows = await User.findById(payload.id).select("following")
+
+      const timelinePromises = follows.map((followedUser) => {
+        return Review.findOne({ userID: followedUser._id}).sort({ createdAt: -1}).populate("userID")
+      })
+      
+      const timeline = await Promise.all(timelinePromises)
+      
+      const filteredTimeline = timeline.filter(review => review != null)
+      
+      response.json(filteredTimeline)
+    }
+
+  } catch (error) {
+    console.error(error);
+    response.status(500).json({ error: error.message });
+  }
+}
+
+export const updateFollowings = async (request, response) => {
+  try {
+    const token = request.headers.authorization.split(" ")[1];
+    const payload = jwt.verify(token, TOKEN_KEY);
+
+    if (payload) {
+      const currentUserId = payload.id
+      const { followedUserId } = request.params
+
+      await User.findByIdAndUpdate(currentUserId, { $addToSet: { following: followedUserId}})
+      await User.findByIdAndUpdate(followedUserId, { $addToSet: { followers: currentUserId}})
+      
+      response.json({message: "Followed Successfully"})
+    }
+  } catch (error) {
+    console.error(error);
+    response.status(500).json({ error: error.message });
+  }
+}

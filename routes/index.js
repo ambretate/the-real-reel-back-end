@@ -1,6 +1,5 @@
 import { Router } from "express";
 import movieRoutes from "./movies.js";
-import followRoutes from "./follows.js";
 import userRoutes from "./users.js";
 import reviewRoutes from "./reviews.js";
 
@@ -11,7 +10,6 @@ router.get("/", (request, response) =>
 );
 
 router.use("/movies", movieRoutes);
-router.use("/follows", followRoutes);
 router.use("/users", userRoutes);
 router.use("/reviews", reviewRoutes);
 

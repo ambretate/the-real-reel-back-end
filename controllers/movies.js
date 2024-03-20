@@ -1,4 +1,5 @@
 import Movie from "../models/Movie.js";
+import Review from "../models/Review.js";
 
 export const getMovies = async (request, response) => {
   try {
@@ -14,9 +15,14 @@ export const getMovie = async (request, response) => {
   try {
     const { id } = request.params;
     const movie = await Movie.findById(id);
+    const reviews = await Review.find({movieID: id})
+
+    movie.reviews = reviews
+
     if (movie) {
       return response.json(movie);
     }
+    
     response.status(404).json({ message: "Movie not found" });
   } catch (error) {
     console.error(error);
