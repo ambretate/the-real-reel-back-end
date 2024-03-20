@@ -18,6 +18,8 @@ const UserSchema = new Schema(
       required: true,
       select: false,
     },
+    following: [{ type: Schema.Types.ObjectId, ref: "users"}],
+    followers: [{ type: Schema.Types.ObjectId, ref: "users"}]
   },
   { timestamps: true }
 );
