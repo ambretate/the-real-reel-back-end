@@ -1,0 +1,48 @@
+[
+    {
+      "title": "The Matrix",
+      "genre": "Science Fiction",
+      "image": "https://example.com/the-matrix.jpg",
+      "description": "A computer hacker learns about the true nature of reality and his role in the war against its controllers.",
+      "releaseDate": "1999-03-31",
+      "runtime": "136 minutes",
+      "budget": "$63 million"
+    },
+    {
+      "title": "Inception",
+      "genre": "Action, Adventure, Sci-Fi",
+      "image": "https://example.com/inception.jpg",
+      "description": "A thief who enters the dreams of others to steal their secrets must plant an idea into a CEO's mind.",
+      "releaseDate": "2010-07-16",
+      "runtime": "148 minutes",
+      "budget": "$160 million"
+    },
+    {
+      "title": "Interstellar",
+      "genre": "Adventure, Drama, Sci-Fi",
+      "image": "https://example.com/interstellar.jpg",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "releaseDate": "2014-11-07",
+      "runtime": "169 minutes",
+      "budget": "$165 million"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "image": "https://example.com/shawshank-redemption.jpg",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "releaseDate": "1994-10-14",
+      "runtime": "142 minutes",
+      "budget": "$25 million"
+    },
+    {
+      "title": "The Dark Knight",
+      "genre": "Action, Crime, Drama",
+      "image": "https://example.com/the-dark-knight.jpg",
+      "description": "When the menace known as The Joker wreaks havoc and chaos, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "releaseDate": "2008-07-18",
+      "runtime": "152 minutes",
+      "budget": "$185 million"
+    }
+  ]
+  
