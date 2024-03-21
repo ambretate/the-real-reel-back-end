@@ -150,6 +150,6 @@
     "password_digest": "hashed_password_mno345",
     "profilePicture": "fs.readFileSync(`profilePicture17.jpeg`)",
     "following": [],
-    "followers": ["65f9a82e38735e11e39e8670"]
+    "followers": ["65f9a82e38735e11e39e8661"]
   }
 ]

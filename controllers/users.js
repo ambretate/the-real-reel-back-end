@@ -131,9 +131,9 @@ export const signUp = async (request, response) => {
     }
 };
 
-export const signIn = async (req, res) => {
+export const signIn = async (request, response) => {
   try {
-    const { email, password } = req.body;
+    const { email, password } = request.body;
     
     const user = await User.findOne({ email: email }).select(
       "username email password_digest"
@@ -148,27 +148,27 @@ export const signIn = async (req, res) => {
       };
 
       const token = jwt.sign(payload, TOKEN_KEY);
-      res.status(201).json({ token });
+      response.status(201).json({ token });
     } else {
-      res.status(401).send("Invalid Credentials");
+      response.status(401).send("Invalid Credentials");
     }
   } catch (error) {
     console.log(error.message);
-    res.status(500).json({ error: error.message });
+    response.status(500).json({ error: error.message });
   }
 };
 
-export const verify = async (req, res) => {
+export const verify = async (request, response) => {
   try {
-    const token = req.headers.authorization.split(" ")[1];
+    const token = request.headers.authorization.split(" ")[1];
     const payload = jwt.verify(token, TOKEN_KEY);
     console.log(payload)
     if (payload) {
-      res.json(payload);
+      response.json(payload);
     }
   } catch (error) {
     console.log(error.message);
-    res.status(401).send("Not Authorized");
+    response.status(401).send("Not Authorized");
   }
 };
 
