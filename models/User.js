@@ -19,10 +19,11 @@ const UserSchema = new Schema(
       select: false,
     },
     profilePicture: {
-      type: String,
+      type: Buffer,
+      required: true,
     },
-    following: [{ type: Schema.Types.ObjectId, ref: "users"}],
-    followers: [{ type: Schema.Types.ObjectId, ref: "users"}]
+    following: [{ type: Schema.Types.ObjectId, ref: "users" }],
+    followers: [{ type: Schema.Types.ObjectId, ref: "users" }],
   },
   { timestamps: true }
 );
