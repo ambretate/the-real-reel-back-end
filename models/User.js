@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import fs from "fs";
 
 const Schema = mongoose.Schema;
 
