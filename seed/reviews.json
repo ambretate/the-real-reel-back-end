@@ -5,7 +5,6 @@
       "title": "Amazing movie!",
       "review": "This movie is absolutely fantastic! I was hooked from start to finish.",
       "hasSpoilers": false
-      
     },
     {
       "userID": "60c3f3e537bf4241e072e146",
@@ -20,11 +19,8 @@
       "title": "Must-watch",
       "review": "An absolute gem of a movie! I highly recommend it to everyone.",
       "hasSpoilers": false
-      
     },
-    [
       {
-        "_id": "65f9cee863a063de78f545f8",
         "userID": "65f9a82e38735e11e39e8659",
         "movieID": "5fb63ecab5ab97135cd4ddfe",
         "title": "Gem of a Movie",
@@ -32,7 +28,6 @@
         "hasSpoilers": false
       },
       {
-        "_id": "65f9cee863a063de78f545f9",
         "userID": "65f9a82e38735e11e39e865a",
         "movieID": "5fb63ecab5ab97135cd4ddfe",
         "title": "Captivating Performances",
@@ -40,7 +35,6 @@
         "hasSpoilers": false
       },
       {
-        "_id": "65f9cee863a063de78f545fa",
         "userID": "65f9a82e38735e11e39e865b",
         "movieID": "5fb63ecab5ab97135cd4ddfe",
         "title": "Outstanding Cinematography and Soundtrack",
@@ -48,7 +42,6 @@
         "hasSpoilers": false
       },
       {
-        "_id": "65f9cee863a063de78f545fb",
         "userID": "65f9a82e38735e11e39e865c",
         "movieID": "5fb63ecab5ab97135cd4ddfe",
         "title": "One of the Best Movies in Years",
@@ -56,7 +49,6 @@
         "hasSpoilers": false
       },
       {
-        "_id": "65f9cee863a063de78f545fc",
         "userID": "65f9a82e38735e11e39e865d",
         "movieID": "5fb63ecab5ab97135cd4ddfe",
         "title": "Incredible Film",
@@ -64,7 +56,6 @@
         "hasSpoilers": false
       },
       {
-        "_id": "65f9cee863a063de78f545fd",
         "userID": "65f9a82e38735e11e39e865e",
         "movieID": "5fb63ecab5ab97135cd4ddfe",
         "title": "Masterpiece",
@@ -72,7 +63,6 @@
         "hasSpoilers": false
       },
       {
-        "_id": "65f9cee863a063de78f545f3",
         "userID": "65f9a82e38735e11e39e865f",
         "movieID": "5fb63ecab5ab97135cd4ddfe",
         "title": "Blown Away",
@@ -80,6 +70,3 @@
         "hasSpoilers": false
       }
     ]
-    
-  ]
-  
