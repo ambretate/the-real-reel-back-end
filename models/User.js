@@ -21,7 +21,7 @@ const UserSchema = new Schema(
     },
     profilePicture: {
       type: Buffer,
-      required: true,
+      required: false,
     },
     following: [{ type: Schema.Types.ObjectId, ref: "users" }],
     followers: [{ type: Schema.Types.ObjectId, ref: "users" }],
