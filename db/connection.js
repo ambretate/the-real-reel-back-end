@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import fs from "fs";
 import chalk from "chalk";
 
 const connectionString =

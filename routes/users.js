@@ -11,7 +11,6 @@ router.get("/follows", controllers.getFollows);
 router.get("/timeline", controllers.getUserTimeline)
 router.put("/follow/:followedUserId", controllers.updateFollowings)
 
-router.get("/", controllers.getUsers);
 router.get("/email/:email", controllers.getUserByEmail);
 router.get("/username/:username", controllers.getUserByUsername);
 router.get("/:id", controllers.getUser);
