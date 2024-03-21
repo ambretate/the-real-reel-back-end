@@ -4,7 +4,7 @@ const Schema = mongoose.Schema
 
 let MovieSchema = new Schema({
     "title": { type: String },
-    "genre": { type: String },
+    "genre": { type: Schema.Types.Number, ref: "genre" },
     "image": { type: String },
     "description": { type: String },
     "releaseDate": { type: String },
