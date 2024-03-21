@@ -1,14 +1,14 @@
 import Review from "../models/Review.js";
 
-export const getReviews = async (request, response) => {
-    try {
-        const reviews = await Review.find();
-        response.json(reviews);
-    } catch (error) {
-        console.error(error);
-        response.status(500).json({ error: error.message });
-    }
-};
+// export const getReviews = async (request, response) => {
+//     try {
+//         const reviews = await Review.find();
+//         response.json(reviews);
+//     } catch (error) {
+//         console.error(error);
+//         response.status(500).json({ error: error.message });
+//     }
+// };
 
 export const getReview = async (request, response) => {
     try {

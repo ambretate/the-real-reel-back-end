@@ -1,8 +1,6 @@
 import db from "../db/connection.js";
 import User from "../models/User.js";
 import usersData from "./users.json" assert { type: "json" };
-import Follow from "../models/Follow.js";
-import followsData from "./follows.json" assert { type: "json" };
 import Movie from "../models/Movie.js";
 import movieData from "./movies.json" assert { type: "json" };
 import Review from "../models/Review.js";
@@ -13,7 +11,6 @@ const insertData = async () => {
   await db.dropDatabase();
 
   await User.create(usersData);
-  await Follow.create(followsData);
   await Movie.create(movieData);
   await Review.create(reviewData);
 

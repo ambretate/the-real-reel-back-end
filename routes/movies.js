@@ -5,8 +5,8 @@ const router = Router();
 
 router.get("/", controllers.getMovies);
 router.get("/:id", controllers.getMovie);
-router.get("/:title", controllers.getMoviesByTitle);
-router.get("/:genre", controllers.getMoviesByGenre)
+router.get("/title/:title", controllers.getMoviesByTitle);
+router.get("/genre/:genre", controllers.getMoviesByGenre);
 router.post("/", controllers.createMovie);
 router.put("/:id", controllers.updateMovie);
 router.delete("/:id", controllers.deleteMovie);
