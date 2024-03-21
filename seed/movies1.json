@@ -1,0 +1,1802 @@
+[
+    {
+        "_id": "65f9cee863a063de78f545ec",
+        "id": 763215,
+        "title": "Damsel",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//sMp34cNKjIb18UBOCoAv4DpCxwY.jpg",
+        "description": "A young woman's marriage to a charming prince turns into a fierce fight for survival when she's offered up as a sacrifice to a fire-breathing dragon.",
+        "releaseDate": "2024-03-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545ef",
+        "id": 1046090,
+        "title": "The Pig, the Snake and the Pigeon",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//7IJ7F8tX7IAkpUdaGovOBJqORnJ.jpg",
+        "description": "The arrogant, third most-wanted criminal in Taiwan, decides to get rid of the top two competitors and crowns himself the most-wanted criminal before dying.",
+        "releaseDate": "2023-10-06",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545f1",
+        "id": 1239251,
+        "title": "Megamind vs. the Doom Syndicate",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//yRZfiG1QpRkBc7fAmxfcR7Md5EC.jpg",
+        "description": "Megamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends (Roxanne, Ol' Chum and Keiko) to stop his former evil teammates from launching Metro City to the Moon.",
+        "releaseDate": "2024-03-01",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545f0",
+        "id": 848538,
+        "title": "Argylle",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//95VlSEfLMqeX36UVcHJuNlWEpwf.jpg",
+        "description": "When the plots of reclusive author Elly Conway's fictional espionage novels begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past. Accompanied by her cat Alfie and Aiden, a cat-allergic spy, Elly races across the world to stay one step ahead of the killers as the line between Conway's fictional world and her real one begins to blur.",
+        "releaseDate": "2024-01-31",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545f2",
+        "id": 932420,
+        "title": "Code 8 Part II",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",
+        "description": "In a world where superpowered people are heavily policed by robots, an ex-con teams up with a drug lord he despises to protect a teen from a corrupt cop.",
+        "releaseDate": "2024-02-27",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545f5",
+        "id": 1049948,
+        "title": "Vikings: Battle of Heirs",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//87goLbbqrJqAxqDS5cBsik1zKT.jpg",
+        "description": "A young Viking must come to terms with the realization that he may be the King's son, who was switched at birth, but not before others try to take his rightful place.",
+        "releaseDate": "2023-04-28",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545eb",
+        "id": 1011985,
+        "title": "Kung Fu Panda 4",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//wkfG7DaExmcVsGLR4kLouMwxeT5.jpg",
+        "description": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+        "releaseDate": "2024-03-02",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545ed",
+        "id": 1096197,
+        "title": "No Way Up",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",
+        "description": "Characters from different backgrounds are thrown together when the plane they're travelling on crashes into the Pacific Ocean. A nightmare fight for survival ensues with the air supply running out and dangers creeping in from all sides.",
+        "releaseDate": "2024-01-18",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545ee",
+        "id": 624091,
+        "title": "Sri Asih",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//wShcJSKMFg1Dy1yq7kEZuay6pLS.jpg",
+        "description": "Alana discover the truth about her origin: she’s not an ordinary human being. She may be the gift for humanity and become its protector as Sri Asih. Or a destruction, if she can’t control her anger.",
+        "releaseDate": "2022-11-17",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545f6",
+        "id": 792307,
+        "title": "Poor Things",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+        "description": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+        "releaseDate": "2023-12-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545f7",
+        "id": 940551,
+        "title": "Migration",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+        "description": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+        "releaseDate": "2023-12-06",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545f8",
+        "id": 634492,
+        "title": "Madame Web",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+        "description": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+        "releaseDate": "2024-02-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545f9",
+        "id": 787699,
+        "title": "Wonka",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+        "description": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+        "releaseDate": "2023-12-06",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545fa",
+        "id": 1072790,
+        "title": "Anyone But You",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+        "description": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+        "releaseDate": "2023-12-21",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545fb",
+        "id": 984249,
+        "title": "Ruthless",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//3hVt5fEuUxNZ5h6ynczcUbq6lpJ.jpg",
+        "description": "A high school coach, whose teenage daughter was murdered, takes matters into his own hands by going after the men who kidnap his students for their sex trafficking operation.",
+        "releaseDate": "2023-12-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545fc",
+        "id": 870404,
+        "title": "Meteor",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//tVMddOS5bi3YPVPgTPlEw0TOWoF.jpg",
+        "description": "After a meteor collides into Earth, a lonely rancher and a lost young girl are on the run from vicious mercenaries.",
+        "releaseDate": "2021-09-01",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545fd",
+        "id": 872585,
+        "title": "Oppenheimer",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "description": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "releaseDate": "2023-07-19",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545fe",
+        "id": 851925,
+        "title": "Death Alley",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//iIKYK9mdapWlJ21YNRGB57WKErK.jpg",
+        "description": "In 1892, the Dalton Gang set out to become the most famous outlaws in America. That dream would become a nightmare.",
+        "releaseDate": "2021-03-11",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545f4",
+        "id": 969492,
+        "title": "Land of Bad",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//lYwjlcBjokC9EhfzfAOkTMQd5Ku.jpg",
+        "description": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
+        "releaseDate": "2024-01-25",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545f3",
+        "id": 693134,
+        "title": "Dune: Part Two",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+        "description": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+        "releaseDate": "2024-02-27",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54601",
+        "id": 1211483,
+        "title": "Skal - Fight for Survival",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//1On8iF3AsFIbpyfZg1xiGWMAFBn.jpg",
+        "description": "My name's Arthur, a huge Internet star who's just hit 3 million subs. While in the midst of throwing an epic party to celebrate, the universe had the balls to bring on the effing apocalypse and cut my night short. What was supposed to be a perfect hangover, has turned into an epic fight for survival.",
+        "releaseDate": "2023-11-24",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54602",
+        "id": 1094556,
+        "title": "The Thundermans Return",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//rz98XwP0VJq6e1jnWDCxn6EDLfP.jpg",
+        "description": "Twins Phoebe and Max are enjoying their superhero lifestyle, but when one 'save' goes awry, the Thundermans are sent back to Hiddenville. While Hank and Barb enjoy their return, and Billy and Nora look forward to a normal high school life, Max and Phoebe are determined to regain their superhero status.",
+        "releaseDate": "2024-03-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54603",
+        "id": 609681,
+        "title": "The Marvels",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+        "description": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+        "releaseDate": "2023-11-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54604",
+        "id": 714567,
+        "title": "#Blue_Whale",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//2TmZ2lgDEYJAFpeUMALRx5NwqK.jpg",
+        "description": "The story of a girl who, in an attempt to understand the mysterious suicide of her younger sister, embarks on a dangerous game, hoping to stop the curators of the \"death group\" pushing teenagers to suicide.",
+        "releaseDate": "2021-10-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54605",
+        "id": 1227816,
+        "title": "Red Right Hand",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg",
+        "description": "Cash is trying to live a quiet, honest life in a small Appalachian town. When a vicious crime boss forces him back into her services, he soon learns he's capable of anything -- even killing -- to protect his family and his home.",
+        "releaseDate": "2024-02-22",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54606",
+        "id": 823464,
+        "title": "Godzilla x Kong: The New Empire",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",
+        "description": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+        "releaseDate": "2024-03-27",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54607",
+        "id": 854188,
+        "title": "The Kindred",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//99PE8haWB7nLky627wJBsWn2awJ.jpg",
+        "description": "After her father’s suicide, a young mother investigates what led to his death. But when she is haunted by spirits and unearths an unsolved mystery from 30 years ago, she discovers a dark family history that could prove deadly for her child.",
+        "releaseDate": "2021-12-28",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54608",
+        "id": 1022796,
+        "title": "Wish",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",
+        "description": "Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force – a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe - the ruler of Rosas, King Magnifico - to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.",
+        "releaseDate": "2023-11-13",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54609",
+        "id": 1081620,
+        "title": "The Weapon",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//slQYCDzCMM8SBh9Xa3aPeM2fekA.jpg",
+        "description": "Dallas is a one-man killing machine on a mysterious rampage. His attacks on biker gangs and meth labs anger the Vegas mob boss who’s holding Dallas’ girlfriend hostage. But who is Dallas working for? Even torture won’t make him talk, and he won’t stop until justice is served.",
+        "releaseDate": "2023-02-17",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5460a",
+        "id": 949429,
+        "title": "The Adventures",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//z3SeS4wjKQ3TjHSvRidovGJbHYb.jpg",
+        "description": "Joy, a secretary at a large multinational company, has an online shopping problem, likes to read adventure novels and watch travel and adventure shows. She daydreams about living a life of adventure.",
+        "releaseDate": "2023-12-22",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5460b",
+        "id": 866398,
+        "title": "The Beekeeper",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+        "description": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+        "releaseDate": "2024-01-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5460c",
+        "id": 636706,
+        "title": "Spaceman",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//f46WvKEsBn98WJbPJcO47ZoKn6B.jpg",
+        "description": "During a research mission, an astronaut discovers that his marriage is in trouble. Luckily, he has the help of a mysterious creature hidden in his ship.",
+        "releaseDate": "2024-02-23",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5460d",
+        "id": 1028703,
+        "title": "The OctoGames",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//qGz5rffXhegQH5PGUDiObqoOt06.jpg",
+        "description": "Eight contestants compete in eight deadly, classic children's games. They seek fame beyond their wildest dreams, competing for the chance to take over the YouTube channel of the famous yet elusive masked content creator known only as \"JaxPro\".",
+        "releaseDate": "2022-10-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5460e",
+        "id": 508883,
+        "title": "The Boy and the Heron",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+        "description": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+        "releaseDate": "2023-07-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5460f",
+        "id": 949697,
+        "title": "The One Hundred",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//o89snIeueVAH0m56vM15v0RjpEz.jpg",
+        "description": "A quarantine hotel where overseas travellers stay in isolation to curb the spread of a contagious virus, but they soon become prey to a strange breed of a 100-legged monster.",
+        "releaseDate": "2022-10-06",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54610",
+        "id": 572802,
+        "title": "Aquaman and the Lost Kingdom",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+        "description": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.",
+        "releaseDate": "2023-12-20",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54611",
+        "id": 885303,
+        "title": "The Voyagers",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//38N7GRJLu7IWyEdil96YobJ5LWM.jpg",
+        "description": "Time jump to 1939 with teenager Max and his friends as they try to navigate Mussolini's Rome and find Max's missing brother.",
+        "releaseDate": "2022-11-21",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54612",
+        "id": 1058078,
+        "title": "Carousel",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//u5KHv3BlYkcdonslD6s97ACGxpB.jpg",
+        "description": "Park manager Fiona is tasked with taking care of some former friends who won an exclusive private sneak preview of Halloween at Liseberg - a whole night, all alone in the empty park. But cotton candy, lovely rides and lots of laughter soon turn into something completely different, as they realize they are not alone in the park. And the night of dreams quickly turns into a true nightmare.",
+        "releaseDate": "2023-10-20",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54613",
+        "id": 944401,
+        "title": "Dogman",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//yZGdlrKxglrWciRl0Rs6lAjfPHM.jpg",
+        "description": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+        "releaseDate": "2023-09-27",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54614",
+        "id": 931642,
+        "title": "Lights Out",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg",
+        "description": "A drifting ex-soldier turns underground fighter with the help of a just-released ex-con, pitting him against corrupt cops and hired killers now gunning for him and all those he cares about.",
+        "releaseDate": "2024-02-16",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54615",
+        "id": 9502,
+        "title": "Kung Fu Panda",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+        "description": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
+        "releaseDate": "2008-06-04",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54616",
+        "id": 799710,
+        "title": "The Wild",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//otPBQncqsboG6MyAeGY8Pur7Vac.jpg",
+        "description": "Woo-chul used to be a successful boxer, but he had to go to prison because his opponent died in the middle of a match. Now that he’s been released, he intends to become a model citizen. Meanwhile, his friend Do-shik will do whatever it takes to get ahead. After choosing different paths, they will be forced to plot against and betray one another.",
+        "releaseDate": "2023-11-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54617",
+        "id": 940721,
+        "title": "Godzilla Minus One",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//hkxxMIGaiCTmrEArK7J56JTKUlB.jpg",
+        "description": "Postwar Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.",
+        "releaseDate": "2023-11-03",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54618",
+        "id": 933131,
+        "title": "Badland Hunters",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//sdI9ufheNPAKnWLl2hnsZKVk0EG.jpg",
+        "description": "After a deadly earthquake turns Seoul into a lawless badland, a fearless huntsman springs into action to rescue a teenager abducted by a mad doctor.",
+        "releaseDate": "2024-01-25",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54619",
+        "id": 370464,
+        "title": "The Masked Saint",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//zlT1Tc9hA1Ntye5hr7Gxos9U6U9.jpg",
+        "description": "The journey of a professional wrestler who becomes a small town pastor and moonlights as a masked vigilante fighting injustice. While facing crises at home and at the church, the Pastor must evade the police and somehow reconcile his violent secret identity with his calling as a pastor.",
+        "releaseDate": "2016-01-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5461a",
+        "id": 838240,
+        "title": "Robot Dreams",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//vSzOobYVu16MogSALNg1bjTaGc.jpg",
+        "description": "Dog lives in Manhattan and he's tired of being alone. One day he decides to build himself a robot, a companion. Their friendship blossoms, until they become inseparable, to the rhythm of 80's NYC. One summer night, Dog, with great sadness, is forced to abandon Robot at the beach. Will they ever meet again?",
+        "releaseDate": "2023-10-20",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5461b",
+        "id": 1022789,
+        "title": "Inside Out 2",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//xeqXXTE1Cd3qNaAEOT6qbhhCsgJ.jpg",
+        "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+        "releaseDate": "2024-06-13",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5461c",
+        "id": 872542,
+        "title": "Agent Game",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//qXJFjgcV7ESRHUSxZiBA4PzRMIx.jpg",
+        "description": "Harris, a CIA interrogator at an Agency black site, finds himself the target of a rendition operation after being scapegoated for an interrogation gone horribly wrong. As the team tasked to bring Harris in begins to question their orders -- and each other --Olsen, a senior intelligence officer, and his subordinate, Visser, raise the stakes. Now, it's up to Harris and some newfound allies to uncover the truth and turn the tables.",
+        "releaseDate": "2022-04-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5461d",
+        "id": 1079394,
+        "title": "The Five",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//xckDPGprPVDpuzhSyo9E7SZJ2wa.jpg",
+        "description": "A scorned woman enlists the help of five strangers to execute a bank robbery. Tensions rise as the men anxiously await her arrival with the money, leaving the crew to wonder if they have been betrayed.",
+        "releaseDate": "2023-01-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5461e",
+        "id": 1205781,
+        "title": "Dora: Say Hola to Adventure!",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//zN3BO43b0JAn1ZCpbwBH6KEP56U.jpg",
+        "description": "It’s Dora, the world’s most famous exploradora, like you’ve never seen her before! Join her and ALL her friends for BRAND NEW, magical adventures in the rainforest!",
+        "releaseDate": "2023-11-10",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5461f",
+        "id": 59300,
+        "title": "Final Fantasy VII: On the Way to a Smile - Episode Denzel",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//jn0qp1t7mExBze9qzy4pryFCbpm.jpg",
+        "description": "It's been four years since Meteor fell on Midgar. Denzel meets Reeve at an outskirts coffee shop about joining the World Regenesis Organization. Upon the request Denzel tells Reeve about what his life was like prior to the Meteor incident.",
+        "releaseDate": "2009-04-16",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54620",
+        "id": 385687,
+        "title": "Fast X",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+        "description": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+        "releaseDate": "2023-05-17",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f545ff",
+        "id": 1217409,
+        "title": "Jaque Mate",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//26VzK0GVAsZhVXIbv3qDKiwBYud.jpg",
+        "description": "Duque, an international secret agent who retired years ago after a traumatic event, is forced to return to action when a commando operative kidnaps his niece and forces him to steal a precious scientific formula as part of the ransom.",
+        "releaseDate": "2024-01-25",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54622",
+        "id": 1207413,
+        "title": "Dark Parasite",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//hmfVO0q2LCsu2sTOe4KjH1aU5tG.jpg",
+        "description": "After a Robbery at a jewelry story, a group of robbers takes refuge with a host in a shabby apartment building in the suburbs. But they don't know that in the basement hides an obscure alien creature with telepathic powers.",
+        "releaseDate": "2023-10-25",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54623",
+        "id": 695721,
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+        "description": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+        "releaseDate": "2023-11-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54624",
+        "id": 799155,
+        "title": "Attack",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//5jGKbYuZtdxSNOocI6ZziQeiY4n.jpg",
+        "description": "With the Parliament under siege, India’s first super soldier Arjun Shergill is tasked to get hold of the terrorists in the nick of time, save the Prime Minister from their clutches and stop a dirty bomb from exploding and destroying Delhi. Will Arjun succeed in his mission?",
+        "releaseDate": "2022-04-01",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54625",
+        "id": 980137,
+        "title": "Dad or Mom",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//e0ezklncv9ApFVj50FSYJZo08oT.jpg",
+        "description": "Florencia and Vicente are getting divorced. When both are promoted at their jobs, they will do anything in order to do not keep custody of their children.",
+        "releaseDate": "2023-11-30",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54626",
+        "id": 49444,
+        "title": "Kung Fu Panda 2",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
+        "description": "Po is now living his dream as The Dragon Warrior, protecting the Valley of Peace alongside his friends and fellow kung fu masters, The Furious Five - Tigress, Crane, Mantis, Viper and Monkey. But Po’s new life of awesomeness is threatened by the emergence of a formidable villain, who plans to use a secret, unstoppable weapon to conquer China and destroy kung fu. It is up to Po and The Furious Five to journey across China to face this threat and vanquish it. But how can Po stop a weapon that can stop kung fu? He must look to his past and uncover the secrets of his mysterious origins; only then will he be able to unlock the strength he needs to succeed.",
+        "releaseDate": "2011-05-25",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54627",
+        "id": 1139829,
+        "title": "Orion and the Dark",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//oT53tpbp12PfJ0ifCs71Viue8R8.jpg",
+        "description": "A boy with an active imagination faces his fears on an unforgettable journey through the night with his new friend: a giant, smiling creature named Dark.",
+        "releaseDate": "2024-02-01",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54628",
+        "id": 385687,
+        "title": "Fast X",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+        "description": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+        "releaseDate": "2023-05-17",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54629",
+        "id": 140300,
+        "title": "Kung Fu Panda 3",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+        "description": "While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.",
+        "releaseDate": "2016-01-23",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5462a",
+        "id": 695721,
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+        "description": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+        "releaseDate": "2023-11-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5462b",
+        "id": 1022690,
+        "title": "Ricky Stanicky",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg",
+        "description": "When three childhood best friends pull a prank gone wrong, they invent the imaginary Ricky Stanicky to get them out of trouble. Twenty years later, the trio still uses the nonexistent Ricky as a handy alibi for their immature behavior. But when their spouses and partners get suspicious and demand to finally meet the fabled Mr. Stanicky, the guilty trio decide to hire a washed-up actor and raunchy celebrity impersonator to bring him to life.",
+        "releaseDate": "2024-02-21",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5462c",
+        "id": 880100,
+        "title": "Fear",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//asCLy4s7HYP3zSRlLP4Qgme5L0A.jpg",
+        "description": "An author's celebration with friends at a woodland cabin takes a terrifying turn when an airborne virus emerges at the same time supernatural forces target the group.",
+        "releaseDate": "2023-01-27",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54600",
+        "id": 438631,
+        "title": "Dune",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+        "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+        "releaseDate": "2021-09-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5462e",
+        "id": 502356,
+        "title": "The Super Mario Bros. Movie",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+        "description": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+        "releaseDate": "2023-04-05",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5462f",
+        "id": 569094,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+        "releaseDate": "2023-05-31",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54630",
+        "id": 76600,
+        "title": "Avatar: The Way of Water",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+        "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+        "releaseDate": "2022-12-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54631",
+        "id": 1139566,
+        "title": "Through My Window 3: Looking at You",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//gwpTgtwVAwmvivBN8rAQABpx9Am.jpg",
+        "description": "After the events of the summer, Ares and Raquel they don't see a way forward in their relationship and decide to go separate ways. But when they meet again in the winter in Barcelona, the love and desire they feel for each other is undeniable. Will they be able to find a way to get back together?",
+        "releaseDate": "2024-02-23",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54632",
+        "id": 980137,
+        "title": "Dad or Mom",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//e0ezklncv9ApFVj50FSYJZo08oT.jpg",
+        "description": "Florencia and Vicente are getting divorced. When both are promoted at their jobs, they will do anything in order to do not keep custody of their children.",
+        "releaseDate": "2023-11-30",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54633",
+        "id": 346698,
+        "title": "Barbie",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "releaseDate": "2023-07-19",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54634",
+        "id": 667538,
+        "title": "Transformers: Rise of the Beasts",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+        "description": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+        "releaseDate": "2023-06-06",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54635",
+        "id": 634649,
+        "title": "Spider-Man: No Way Home",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//5weKu49pzJCt06OPpjvT80efnQj.jpg",
+        "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+        "releaseDate": "2021-12-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54636",
+        "id": 528656,
+        "title": "Genghis Khan",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//FgFoX4wlZUT31ErGGzVnNlh8U3.jpg",
+        "description": "Temüjin and Börte are childhood lovers who are deeply in love; but news of Temüjin's father's death swiftly disrupted their relationship. Temüjin heads back to his hometown, but was faced with a sudden attack from his father's former comrades, causing his whole tribe to be destroyed.",
+        "releaseDate": "2018-04-28",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54637",
+        "id": 897087,
+        "title": "Freelance",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+        "description": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+        "releaseDate": "2023-10-05",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54638",
+        "id": 982940,
+        "title": "Due Justice",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//35Uef7fz9ctYbJLXbJBCqvtttEQ.jpg",
+        "description": "An attorney with a military past hunts down the gang who killed his wife and took his daughter.",
+        "releaseDate": "2023-11-24",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54639",
+        "id": 1212073,
+        "title": "Sixty Minutes",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//jojfbnIHGsRpodIood3OQoqA45Y.jpg",
+        "description": "Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.",
+        "releaseDate": "2024-01-19",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5463a",
+        "id": 1022659,
+        "title": "The Movie Emperor",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//5UxQgfuDCaraygqpW6tgMMZz0d.jpg",
+        "description": "In an attempt to win back the public's interest, has-been Hong Kong film star Lau Wai-chi makes a comeback film with a major director. To prepare for his role as a peasant farmer in the 1960s, he travels to the mainland China countryside to experience rural life there, but his arrogance triggers a series of farces.",
+        "releaseDate": "2024-02-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5463b",
+        "id": 1026436,
+        "title": "Miller's Girl",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//aygFQeDmmtlArzo8epmsOg9mz9f.jpg",
+        "description": "A precocious young writer becomes involved with her high school creative writing teacher in a dark coming-of-age drama that examines the blurred lines of emotional connectivity between professor and protégé.",
+        "releaseDate": "2024-01-18",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5463c",
+        "id": 59300,
+        "title": "Final Fantasy VII: On the Way to a Smile - Episode Denzel",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//jn0qp1t7mExBze9qzy4pryFCbpm.jpg",
+        "description": "It's been four years since Meteor fell on Midgar. Denzel meets Reeve at an outskirts coffee shop about joining the World Regenesis Organization. Upon the request Denzel tells Reeve about what his life was like prior to the Meteor incident.",
+        "releaseDate": "2009-04-16",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5463d",
+        "id": 299054,
+        "title": "Expend4bles",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+        "description": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+        "releaseDate": "2023-09-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5463e",
+        "id": 466420,
+        "title": "Killers of the Flower Moon",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+        "description": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+        "releaseDate": "2023-10-18",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5463f",
+        "id": 1078012,
+        "title": "Boonie Bears: Guardian Code",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//lIR8h3Os8peWOave8CGE7xsTFoi.jpg",
+        "description": "Briar and Bramble, who lost their mother Barbara when they were cubs, are thrown into danger when escorting a scientist, which may lead them to a family reunion.",
+        "releaseDate": "2023-01-22",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54640",
+        "id": 955916,
+        "title": "Lift",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg",
+        "description": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+        "releaseDate": "2024-01-10",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54641",
+        "id": 634649,
+        "title": "Spider-Man: No Way Home",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//5weKu49pzJCt06OPpjvT80efnQj.jpg",
+        "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+        "releaseDate": "2021-12-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54642",
+        "id": 603692,
+        "title": "John Wick: Chapter 4",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "description": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "releaseDate": "2023-03-22",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54643",
+        "id": 854529,
+        "title": "Night at the Eagle Inn",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//i2c6Pv7y4WU0HVcHcRfr242RNFp.jpg",
+        "description": "Fraternal twins spend a hellish night at the remote inn their father disappeared from the night they were born.",
+        "releaseDate": "2021-10-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54644",
+        "id": 976573,
+        "title": "Elemental",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+        "description": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+        "releaseDate": "2023-06-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54645",
+        "id": 901362,
+        "title": "Trolls Band Together",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//bkpPTZUdq31UGDovmszsg2CchiI.jpg",
+        "description": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+        "releaseDate": "2023-10-12",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54646",
+        "id": 315162,
+        "title": "Puss in Boots: The Last Wish",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+        "description": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+        "releaseDate": "2022-12-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54647",
+        "id": 965571,
+        "title": "Patriots Time",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//yrafAmPQgr5RWEe67BrbHu7jiB.jpg",
+        "description": "The brothers Sultan and Bekzat Ibrayev are serving faithfully in the Armed Forces of Kazakhstan, and at the same time they are in family disagreement. Sultan is a valiant intelligence officer and Bekzat is a talented fighter pilot. While an international terrorist organization prepares a carefully planned attack on the country's strategically important facilities, the brothers have to face not only a mortal threat, but also face a family confrontation related to their dead father. Circumstances force them to unite in order to save human lives, and the brothers eventually understand that their homeland and family are the most valuable thing they have.",
+        "releaseDate": "2022-04-28",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54648",
+        "id": 507089,
+        "title": "Five Nights at Freddy's",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+        "description": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+        "releaseDate": "2023-10-25",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54649",
+        "id": 802219,
+        "title": "Bob Marley: One Love",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//mKWalirPreEdCKDJjc5TKeOP2xi.jpg",
+        "description": "Jamaican singer-songwriter Bob Marley overcomes adversity to become the most famous reggae musician in the world.",
+        "releaseDate": "2024-02-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5464a",
+        "id": 615656,
+        "title": "Meg 2: The Trench",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+        "description": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+        "releaseDate": "2023-08-02",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5464b",
+        "id": 1075794,
+        "title": "Leo",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+        "description": "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.",
+        "releaseDate": "2023-11-17",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5464c",
+        "id": 848326,
+        "title": "Rebel Moon - Part One: A Child of Fire",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
+        "description": "When a peaceful colony on the edge of the galaxy finds itself threatened by the armies of the tyrannical Regent Balisarius, they dispatch Kora, a young woman with a mysterious past, to seek out warriors from neighboring planets to help them take a stand.",
+        "releaseDate": "2023-12-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5464d",
+        "id": 918692,
+        "title": "Granit",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//zLJn4U2qlWIzlFP5SsyFJUDQjfs.jpg",
+        "description": "Mozambique requests from Russia is being helped in the fight against militants of the \"Islamic State\" and a special group led by a commander with the call sign Granit is coming to the country.",
+        "releaseDate": "2021-12-29",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5464e",
+        "id": 1115377,
+        "title": "The Angel Maker",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//xkbL9BliHIZN4hjoyQeWt9v1rLY.jpg",
+        "description": "'The Angel Maker' is a psychological crime thriller following Laura, a cyber crimes detective pursuing a brutal serial killer.",
+        "releaseDate": "2023-06-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5464f",
+        "id": 575264,
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+        "description": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+        "releaseDate": "2023-07-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54650",
+        "id": 150540,
+        "title": "Inside Out",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+        "description": "From an adventurous balloon ride above the clouds to a monster-filled metropolis, Academy Award®-winning director Pete Docter (“Monsters, Inc.,” “Up”) has taken audiences to unique and imaginative places. In Disney and Pixar’s original movie “ Inside Out,” he will take us to the most extraordinary location of all—inside the mind.",
+        "releaseDate": "2015-06-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54651",
+        "id": 982940,
+        "title": "Due Justice",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//35Uef7fz9ctYbJLXbJBCqvtttEQ.jpg",
+        "description": "An attorney with a military past hunts down the gang who killed his wife and took his daughter.",
+        "releaseDate": "2023-11-24",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54652",
+        "id": 1010581,
+        "title": "My Fault",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+        "description": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "releaseDate": "2023-06-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54653",
+        "id": 854529,
+        "title": "Night at the Eagle Inn",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//i2c6Pv7y4WU0HVcHcRfr242RNFp.jpg",
+        "description": "Fraternal twins spend a hellish night at the remote inn their father disappeared from the night they were born.",
+        "releaseDate": "2021-10-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54654",
+        "id": 455575,
+        "title": "Kungfu Master",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//mZEx58GIKIFXzYVy9txEgObKA8X.jpg",
+        "description": "The film features Kung Fu Panda and Chinese martial arts folk hero Wong Fei Hung. In the film, the panda is assigned by the Buddha to protect an ancient treasure that could give the bearer the power to conquer the world.",
+        "releaseDate": "2008-03-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54621",
+        "id": 1029575,
+        "title": "The Family Plan",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+        "description": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+        "releaseDate": "2023-12-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54656",
+        "id": 467244,
+        "title": "The Zone of Interest",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+        "description": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+        "releaseDate": "2023-12-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54657",
+        "id": 949567,
+        "title": "The Exorcism of Hannah Stevenson",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//so05qY0sDY0348bRg0tK9tSnnEq.jpg",
+        "description": "Hannah and Matt, a young couple on their first holiday together, quickly discover that they may not see eye-to-eye. Feeling as though she let her boyfriend down, Hannah enlists the help of a mysterious gypsy woman, in the hope that the couple's troubles can be overcome. However, when Matt wakes to find his girlfriend has disappeared, the gypsy woman's sinister intentions become all too clear.",
+        "releaseDate": "2022-03-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54658",
+        "id": 399566,
+        "title": "Godzilla vs. Kong",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+        "description": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+        "releaseDate": "2021-03-24",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54659",
+        "id": 299536,
+        "title": "Avengers: Infinity War",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+        "releaseDate": "2018-04-25",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5465a",
+        "id": 637649,
+        "title": "Wrath of Man",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+        "description": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+        "releaseDate": "2021-04-22",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5465b",
+        "id": 447365,
+        "title": "Guardians of the Galaxy Vol. 3",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "description": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+        "releaseDate": "2023-05-03",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5465c",
+        "id": 298618,
+        "title": "The Flash",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+        "description": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+        "releaseDate": "2023-06-13",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5465d",
+        "id": 551608,
+        "title": "Haunting on Fraternity Row",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//7Y9EsHwk61JcXbPjGndZrEwPuog.jpg",
+        "description": "A fraternity house throws their big \"Winter Luau\" party but when fraternity brothers and coeds begin dying horrible deaths they discover an evil entity has taken over the house.",
+        "releaseDate": "2018-11-02",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5465e",
+        "id": 670292,
+        "title": "The Creator",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+        "description": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+        "releaseDate": "2023-09-27",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5465f",
+        "id": 906126,
+        "title": "Society of the Snow",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//2e853FDVSIso600RqAMunPxiZjq.jpg",
+        "description": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+        "releaseDate": "2023-12-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54660",
+        "id": 1124127,
+        "title": "Air Force One Down",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg",
+        "description": "On her first assignment aboard Air Force One, a rookie Secret Service agent faces the ultimate test when terrorists hijack the plane, intent on derailing a pivotal energy deal. With the President's life on the line and a global crisis at stake, her bravery and skills are pushed to the limit in a relentless battle that could change the course of history.",
+        "releaseDate": "2024-02-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54661",
+        "id": 967847,
+        "title": "Ghostbusters: Frozen Empire",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//r65fWcFELCSeyyrkq5wY09EPSGN.jpg",
+        "description": "The Spengler family returns to where it all started – the iconic New York City firehouse – to team up with the original Ghostbusters, who've developed a top-secret research lab to take busting ghosts to the next level. But when the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.",
+        "releaseDate": "2024-03-20",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54662",
+        "id": 899445,
+        "title": "Deep Fear",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//ms1omYCnhnO3eDOI88tfiy6SaoX.jpg",
+        "description": "A solo trip aboard a yacht takes a terrifying turn when a woman encounters three drug traffickers clinging to the shattered remains of a boat. They soon force her to dive into shark-infested waters to retrieve kilos of cocaine from the sunken wreck.",
+        "releaseDate": "2023-10-18",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5462d",
+        "id": 838209,
+        "title": "Exhuma",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//pQYHouPsDw32FhDLr7E3jmw0WTk.jpg",
+        "description": "After suffering from serial paranormal events, a wealthy family living in LA summons a young rising shaman duo Hwa-rim and Bong-gil to save the newborn of the family. Once they arrive, Hwa-rim senses a dark shadow of their ancestor has latched on the family, so-called a 'Grave's Calling'. In order to exhume the grave and relieve the ancestor, Hwa-rim seeks help from the top-notch geomancer Sang-duk and the mortician Young-geun. To their dismay, the four find the grave at a shady location in a remote village in Korea. Unaware of the consequences, the exhumation is carried out, yet this rather unleashes a malevolent force buried underneath.",
+        "releaseDate": "2024-02-22",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54664",
+        "id": 1865,
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+        "description": "Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love -- or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.",
+        "releaseDate": "2011-05-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54665",
+        "id": 1160164,
+        "title": "TAYLOR SWIFT | THE ERAS TOUR",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//jf3YO8hOqGHCupsREf5qymYq1n.jpg",
+        "description": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour.",
+        "releaseDate": "2023-10-13",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54666",
+        "id": 906126,
+        "title": "Society of the Snow",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//2e853FDVSIso600RqAMunPxiZjq.jpg",
+        "description": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+        "releaseDate": "2023-12-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54667",
+        "id": 1019420,
+        "title": "Irish Wish",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg",
+        "description": "Maddie's dream guy is days away from marrying her best friend when a wish for true love made on an ancient stone in Ireland magically alters her fate.",
+        "releaseDate": "2024-03-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54668",
+        "id": 843380,
+        "title": "Dead for a Dollar",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg",
+        "description": "In 1897, veteran bounty hunter Max Borlund is deep into Mexico where he encounters professional gambler and outlaw Joe Cribbens — a sworn enemy he sent to prison years before. Max is on a mission to find and return Rachel Kidd, the wife of a wealthy businessman, who as the story is told to Max, has been abducted by Buffalo Soldier Elijah Jones. Max is ultimately faced with a showdown to save honor.",
+        "releaseDate": "2022-09-30",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54669",
+        "id": 517764,
+        "title": "The Farm",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//7nPMR3QU5vl7cEmB1LE6O6yliCg.jpg",
+        "description": "The young couple Nora (Nora Yessayan) and Alec (Alec Gaylord) are on their way back from a long road trip. In a  desert town they want to take a break, but when they wake up the next morning when they wake up the next morning, they are no longer in the motel they motel where they had actually checked in. Overnight, the by a group of crazed killers wearing animal masks, have been abducted.  What would happen if people were treated like cattle for slaughter? On the farm, this horrific idea comes true. As Nora and Alec soon find out, they are not the only ones locked in cages, fattened and fed cages, fattened up and fed by their torturers, only to be slaughtered, disemboweled and eaten as a delicacy by their torturers. For the young couple begins a fight for bare survival.",
+        "releaseDate": "2019-04-19",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5466a",
+        "id": 893723,
+        "title": "PAW Patrol: The Mighty Movie",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//aTvePCU7exLepwg5hWySjwxojQK.jpg",
+        "description": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+        "releaseDate": "2023-09-21",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5466b",
+        "id": 1014590,
+        "title": "Upgraded",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//eYsdP5QffklSZMXJMy295xTHKmt.jpg",
+        "description": "Ana is an ambitious intern dreaming of a career in the art world while trying to impress her demanding boss Claire. When she's upgraded to first class on a work trip, she meets handsome Will, who mistakes Ana for her boss– a white lie that sets off a glamorous chain of events, romance and opportunity, until her fib threatens to surface.",
+        "releaseDate": "2024-02-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5466c",
+        "id": 1058694,
+        "title": "Radical",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//eSatbygYZp8ooprBHZdb6GFZxGB.jpg",
+        "description": "In a Mexican border town plagued by neglect, corruption, and violence, a frustrated teacher tries a radical new method to break through his students’ apathy and unlock their curiosity, their potential… and maybe even their genius.",
+        "releaseDate": "2023-10-19",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5466d",
+        "id": 915935,
+        "title": "Anatomy of a Fall",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
+        "description": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
+        "releaseDate": "2023-08-23",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5466e",
+        "id": 671,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+        "description": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+        "releaseDate": "2001-11-16",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54670",
+        "id": 119450,
+        "title": "Dawn of the Planet of the Apes",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+        "description": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+        "releaseDate": "2014-07-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5466f",
+        "id": 926393,
+        "title": "The Equalizer 3",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+        "description": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+        "releaseDate": "2023-08-30",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54671",
+        "id": 968051,
+        "title": "The Nun II",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+        "description": "In 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.",
+        "releaseDate": "2023-09-06",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54672",
+        "id": 1125311,
+        "title": "Imaginary",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg",
+        "description": "When Jessica moves back into her childhood home with her family, her youngest stepdaughter Alice develops an eerie attachment to a stuffed bear named Chauncey she finds in the basement. Alice starts playing games with Chauncey that begin playful and become increasingly sinister. As Alice’s behavior becomes more and more concerning, Jessica intervenes only to realize Chauncey is much more than the stuffed toy bear she believed him to be.",
+        "releaseDate": "2024-03-06",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54673",
+        "id": 455575,
+        "title": "Kungfu Master",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//mZEx58GIKIFXzYVy9txEgObKA8X.jpg",
+        "description": "The film features Kung Fu Panda and Chinese martial arts folk hero Wong Fei Hung. In the film, the panda is assigned by the Buddha to protect an ancient treasure that could give the bearer the power to conquer the world.",
+        "releaseDate": "2008-03-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54674",
+        "id": 324786,
+        "title": "Hacksaw Ridge",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
+        "description": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+        "releaseDate": "2016-10-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54675",
+        "id": 841,
+        "title": "Dune",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//9jE1U4vzlZQMvfbKWq5fj00iJBw.jpg",
+        "description": "In the year 10,191, the most precious substance in the universe is the spice Melange. The spice extends life. The spice expands consciousness. The spice is vital to space travel.  The spice exists on only one planet in the entire universe, the vast desert planet Arrakis, also known as Dune.  Its native inhabitants, the Fremen, have long held a prophecy that a man would come, a messiah who would lead them to true freedom.",
+        "releaseDate": "1984-12-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54676",
+        "id": 507086,
+        "title": "Jurassic World Dominion",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+        "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+        "releaseDate": "2022-06-01",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54677",
+        "id": 1125311,
+        "title": "Imaginary",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg",
+        "description": "When Jessica moves back into her childhood home with her family, her youngest stepdaughter Alice develops an eerie attachment to a stuffed bear named Chauncey she finds in the basement. Alice starts playing games with Chauncey that begin playful and become increasingly sinister. As Alice’s behavior becomes more and more concerning, Jessica intervenes only to realize Chauncey is much more than the stuffed toy bear she believed him to be.",
+        "releaseDate": "2024-03-06",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54678",
+        "id": 760774,
+        "title": "One Life",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg",
+        "description": "British stockbroker Nicholas Winton visits Czechoslovakia in the 1930s and forms plans to assist in the rescue of Jewish children before the onset of World War II, in an operation that came to be known as the Kindertransport.",
+        "releaseDate": "2023-09-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54679",
+        "id": 671,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+        "description": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+        "releaseDate": "2001-11-16",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5467a",
+        "id": 1865,
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+        "description": "Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love -- or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.",
+        "releaseDate": "2011-05-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5467b",
+        "id": 324786,
+        "title": "Hacksaw Ridge",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
+        "description": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+        "releaseDate": "2016-10-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5467c",
+        "id": 860867,
+        "title": "The Accursed",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//dEEXkhekQd7W1S9gZ9EawXNkaEF.jpg",
+        "description": "Hana spends twenty years suppressing a maleficent curse that was placed upon her bloodline, only to have a family member knowingly release it forcing her to kill or to be killed.",
+        "releaseDate": "2021-11-12",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5467d",
+        "id": 678512,
+        "title": "Sound of Freedom",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+        "description": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+        "releaseDate": "2023-07-03",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5467e",
+        "id": 507086,
+        "title": "Jurassic World Dominion",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+        "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+        "releaseDate": "2022-06-01",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5467f",
+        "id": 993784,
+        "title": "Lisa Frankenstein",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg",
+        "description": "In 1989, a misunderstood teenager has a high school crush — who just happens to be a handsome corpse! After a set of playfully horrific circumstances bring him back to life, the two embark on a murderous journey to find love, happiness…and a few missing body parts along the way.",
+        "releaseDate": "2024-02-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54680",
+        "id": 673,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+        "description": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+        "releaseDate": "2004-05-31",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54681",
+        "id": 653346,
+        "title": "Kingdom of the Planet of the Apes",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//fAjyUDKABSehK6pHWvh9ket5X3z.jpg",
+        "description": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+        "releaseDate": "2024-05-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54682",
+        "id": 1220441,
+        "title": "GREAT PRETENDER razbliuto",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//gQwzIIyhgsFiYiXI7fNpTUvWghP.jpg",
+        "description": "Presumed dead, master con artist and recovering amnesiac Dorothy is discovered by Shanghai Longu-bang, a mob who wants payback for her conning them. With no memories and nowhere to go, she must rely on a local crime underboss to elude Taipei's criminal underworld all while tracking down leads to her mysterious past.",
+        "releaseDate": "2024-01-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54683",
+        "id": 964592,
+        "title": "Sleep",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//b4d90lpmSTLoCP9tkBU7QAQOhh0.jpg",
+        "description": "Hyun-su and Soo-jin are newlyweds. Seemingly out of nowhere, he starts talking in his sleep. \"Someone's inside.\" From that night on, whenever he falls asleep, he transforms into someone else with no recollection of what happened the night before. Soo-jin is overwhelmed with anxiety that he'd hurt her family while she sleeps and can barely sleep a wink because of this irrational fear. Despite sleep treatment, Hyun-su's sleepwalking only intensifies, and she begins to feel that her unborn child may be in danger.",
+        "releaseDate": "2023-09-06",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54684",
+        "id": 1008042,
+        "title": "Talk to Me",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+        "description": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+        "releaseDate": "2023-07-26",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54685",
+        "id": 1014590,
+        "title": "Upgraded",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//eYsdP5QffklSZMXJMy295xTHKmt.jpg",
+        "description": "Ana is an ambitious intern dreaming of a career in the art world while trying to impress her demanding boss Claire. When she's upgraded to first class on a work trip, she meets handsome Will, who mistakes Ana for her boss– a white lie that sets off a glamorous chain of events, romance and opportunity, until her fib threatens to surface.",
+        "releaseDate": "2024-02-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54686",
+        "id": 816741,
+        "title": "Grey Eyes",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//5InVYa7CcbGioPvQ6ig4Lz4iLlR.jpg",
+        "description": "In a post-apocalyptic future, mankind is color blind. A brilliant scientist suddenly dies, leaving his precious briefcase-filled with a highly-addictive synthetic drug that allows people to see colors again-to Ana, a mere 12-year-old girl. Possession of the briefcase makes her the target of a doctor with wicked plans for the drug, and her only hope to escape his pursuit relies on the aid of the dead scientist's two devoted bodyguards. Together, their epic, perilous journey pivots on a tremendous secret: Ana herself could be the key to salvaging a world in ruins.",
+        "releaseDate": "2018-05-11",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54687",
+        "id": 951546,
+        "title": "Reign of Chaos",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//nTMmpvR9TyV631tpFr4FtYxG0FC.jpg",
+        "description": "When the world is gripped by a plague unleashed by the evil lord Chaos, and humans are turned into rabid creatures, mankind can only be saved by three young women, descendants of a Goddess, with the power to stop Chaos' evil.",
+        "releaseDate": "2022-04-12",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54689",
+        "id": 878508,
+        "title": "While We Sleep",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//hLBY8JBpHLxnLyHX9DzzQoeqpOX.jpg",
+        "description": "After observing a hauntingly familiar abnormal CAT scan of a 13 year old girl, radiologist Nina Evanko battles to find the source of the young girl's sleeping disorder. What she discovers is darker and stranger than she could have imagined.",
+        "releaseDate": "2021-10-01",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54688",
+        "id": 119450,
+        "title": "Dawn of the Planet of the Apes",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+        "description": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+        "releaseDate": "2014-07-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5468a",
+        "id": 14836,
+        "title": "Coraline",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+        "description": "A young girl discovers an idealized parallel universe behind a secret door in her new home, unaware that it contains a sinister secret.",
+        "releaseDate": "2009-02-05",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5468c",
+        "id": 122917,
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+        "description": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+        "releaseDate": "2014-12-10",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54655",
+        "id": 116776,
+        "title": "Dragon Ball: Mystical Adventure",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//5aXG0B3TYTpQsodXzvYCkKQfpB1.jpg",
+        "description": "Master Roshi has succeeded at the one mission he valued most: to train Goku and Krillin to become ultimate fighters. So, he arranges for them to test their mettle at a competition hosted by Emperor Chiaotzu. Not everyone's playing by the rules, however, as a member of the ruler's household schemes to use the Dragonballs to extort money and power from the royal.",
+        "releaseDate": "1988-07-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5468b",
+        "id": 1230393,
+        "title": "Monsters 103 Mercies Dragon Damnation",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//yG8QKnaiz7JoIMh3oxdm0JJN6IG.jpg",
+        "description": "A samurai's path leads him to a young waitress whose hometown was destroyed by a dragon. He doesn't want any trouble — but it finds them anyway.",
+        "releaseDate": "2024-01-21",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5468e",
+        "id": 361743,
+        "title": "Top Gun: Maverick",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+        "description": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+        "releaseDate": "2022-05-24",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5468f",
+        "id": 120,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "description": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+        "releaseDate": "2001-12-18",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54691",
+        "id": 335984,
+        "title": "Blade Runner 2049",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+        "description": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+        "releaseDate": "2017-10-04",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54690",
+        "id": 565770,
+        "title": "Blue Beetle",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+        "description": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+        "releaseDate": "2023-08-16",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54695",
+        "id": 1058694,
+        "title": "Radical",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//eSatbygYZp8ooprBHZdb6GFZxGB.jpg",
+        "description": "In a Mexican border town plagued by neglect, corruption, and violence, a frustrated teacher tries a radical new method to break through his students’ apathy and unlock their curiosity, their potential… and maybe even their genius.",
+        "releaseDate": "2023-10-19",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54692",
+        "id": 19995,
+        "title": "Avatar",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+        "description": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+        "releaseDate": "2009-12-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54697",
+        "id": 414906,
+        "title": "The Batman",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//74xTEgt7R36Fpooo50r9T25onhq.jpg",
+        "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+        "releaseDate": "2022-03-01",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54696",
+        "id": 303857,
+        "title": "Dragon Ball Z: Resurrection 'F'",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg",
+        "description": "One peaceful day on Earth, two remnants of Frieza's army named Sorbet and Tagoma arrive searching for the Dragon Balls with the aim of reviving Frieza. They succeed, and Frieza subsequently seeks revenge on the Saiyans.",
+        "releaseDate": "2015-04-18",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54694",
+        "id": 927107,
+        "title": "The Bricklayer",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//36pYugctLa70NmwMEgXTR1G31Kq.jpg",
+        "description": "Someone is blackmailing the CIA by assassinating foreign journalists and making it look like the agency is responsible. As the world begins to unite against the U.S., the CIA must lure its most brilliant – and rebellious – operative out of retirement, forcing him to confront his checkered past while unraveling an international conspiracy.",
+        "releaseDate": "2023-12-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54693",
+        "id": 383498,
+        "title": "Deadpool 2",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+        "description": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+        "releaseDate": "2018-05-10",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54663",
+        "id": 122917,
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+        "description": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+        "releaseDate": "2014-12-10",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54699",
+        "id": 508947,
+        "title": "Turning Red",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+        "description": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+        "releaseDate": "2022-03-10",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5469a",
+        "id": 610150,
+        "title": "Dragon Ball Super: Super Hero",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg",
+        "description": "The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.",
+        "releaseDate": "2022-06-11",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5469b",
+        "id": 519182,
+        "title": "Despicable Me 4",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//aun2IpLDx2E08hYj8xnAEUEFLlo.jpg",
+        "description": "Gru and Lucy and their girls — Margo, Edith and Agnes — welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, and the family is forced to go on the run.",
+        "releaseDate": "2024-07-03",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5469c",
+        "id": 1071215,
+        "title": "Thanksgiving",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//2zibQOFcUObHssigFjq9xYWekbJ.jpg",
+        "description": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
+        "releaseDate": "2023-11-16",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5469d",
+        "id": 920081,
+        "title": "Megaboa",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//sAnAMv3eyQiGI1z2k8NsvH0Y6r5.jpg",
+        "description": "On a trip to Colombia, a group of college students encounter a fifty-foot boa constrictor, hungry for blood.",
+        "releaseDate": "2021-11-26",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5469e",
+        "id": 335977,
+        "title": "Indiana Jones and the Dial of Destiny",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+        "description": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
+        "releaseDate": "2023-06-28",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5469f",
+        "id": 335977,
+        "title": "Indiana Jones and the Dial of Destiny",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+        "description": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
+        "releaseDate": "2023-06-28",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546a0",
+        "id": 818893,
+        "title": "Infiltration",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//nUI80er0ouSDgupOHaaZAntjUOK.jpg",
+        "description": "Ivan sets off on a dangerous mission into Syria to save his ex-commander Grey after his capture by ISIS. With the help of U.S. military patrols, he succeeds in freeing Grey and attempts to escape the country while being hunted by terrorists.",
+        "releaseDate": "2022-06-02",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546a1",
+        "id": 411,
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+        "description": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+        "releaseDate": "2005-12-07",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546a2",
+        "id": 181808,
+        "title": "Star Wars: The Last Jedi",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+        "description": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+        "releaseDate": "2017-12-13",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546a3",
+        "id": 447277,
+        "title": "The Little Mermaid",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+        "description": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
+        "releaseDate": "2023-05-18",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546a4",
+        "id": 762430,
+        "title": "Retribution",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
+        "description": "When a mysterious caller puts a bomb under his car seat, Matt Turner begins a high-speed chase across the city to complete a specific series of tasks- all with his kids trapped in the back seat.",
+        "releaseDate": "2023-08-23",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546a5",
+        "id": 924763,
+        "title": "Weekend Warriors",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//uGyZZODYqcYINRPIgaHbMmawQ2I.jpg",
+        "description": "A fun camping trip turns into a desperate fight for survival after two kids witness a horrific event in the wild. They have to endure the elements and wildlife and they must also find a way to reach civilization before it's too late.",
+        "releaseDate": "2021-04-01",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546a6",
+        "id": 22,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+        "description": "Jack Sparrow, a freewheeling 18th-century pirate, quarrels with a rival pirate bent on pillaging Port Royal. When the governor's daughter is kidnapped, Sparrow decides to help the girl's love save her.",
+        "releaseDate": "2003-07-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546a7",
+        "id": 269149,
+        "title": "Zootopia",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+        "description": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+        "releaseDate": "2016-02-11",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546a8",
+        "id": 496450,
+        "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+        "description": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.",
+        "releaseDate": "2023-07-05",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546a9",
+        "id": 118,
+        "title": "Charlie and the Chocolate Factory",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg",
+        "description": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+        "releaseDate": "2005-07-13",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546aa",
+        "id": 436969,
+        "title": "The Suicide Squad",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",
+        "description": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+        "releaseDate": "2021-07-28",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546ab",
+        "id": 628866,
+        "title": "The Return",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//rK2gW2kOIC5hG3JjVB81vU9v8gC.jpg",
+        "description": "After the death of his father, a brilliant college student returns to his family home where he learns that the horrors from his childhood aren't as dead and gone as he once thought.",
+        "releaseDate": "2020-09-05",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546ac",
+        "id": 4935,
+        "title": "Howl's Moving Castle",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//6pZgH10jhpToPcf0uvyTCPFhWpI.jpg",
+        "description": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+        "releaseDate": "2004-09-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546ad",
+        "id": 676727,
+        "title": "The Inventor",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//7Rpo5S3GjORu3yjah0o9eLcllSj.jpg",
+        "description": "The insatiably curious and headstrong inventor Leonardo da Vinci leaves Italy to join the French court, where he can experiment freely, inventing flying contraptions, incredible machines, and study the human body. There, joined in his adventure by the audacious princess Marguerite, Leonardo will uncover the answer to the ultimate question – \"What is the meaning of it all?\"",
+        "releaseDate": "2023-09-15",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546ae",
+        "id": 934194,
+        "title": "Slash/Back",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//fmmRFQtsRrNOpmcfoxVIyE1LxxT.jpg",
+        "description": "In a remote Arctic community, a group of Inuit girls fight off an alien invasion, all while trying to make it to the coolest party in town.",
+        "releaseDate": "2022-06-24",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546af",
+        "id": 1248795,
+        "title": "Art of Love",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//niVtvS9Kf8G1VDPSqurqHkaSSwm.jpg",
+        "description": "After learning that the art thief she has been chasing is her ex-lover, an officer working for Interpol concocts a plan to catch him red-handed.",
+        "releaseDate": "2024-03-14",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546b0",
+        "id": 359410,
+        "title": "Road House",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//lwPsIgh98Wnpvkr3svkZwlhDrfm.jpg",
+        "description": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+        "releaseDate": "2024-03-08",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546b1",
+        "id": 293660,
+        "title": "Deadpool",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+        "description": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+        "releaseDate": "2016-02-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f546b2",
+        "id": 505642,
+        "title": "Black Panther: Wakanda Forever",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+        "description": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+        "releaseDate": "2022-11-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f5468d",
+        "id": 24238,
+        "title": "Mary and Max",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//ebmsM382m9IClLUzKYY2U5biFwM.jpg",
+        "description": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+        "releaseDate": "2009-02-09",
+        "__v": 0
+    },
+    {
+        "_id": "65f9cee863a063de78f54698",
+        "id": 850165,
+        "title": "The Iron Claw",
+        "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2//nfs7DCYhgrEIgxKYbITHTzKsggf.jpg",
+        "description": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+        "releaseDate": "2023-12-21",
+        "__v": 0
+    }
+]
