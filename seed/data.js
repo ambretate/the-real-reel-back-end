@@ -5,7 +5,6 @@ import Movie from "../models/Movie.js";
 import movieData from "./movies.json" assert { type: "json" };
 import Review from "../models/Review.js";
 import reviewData from "./reviews.json" assert { type: "json" };
-
 import chalk from "chalk";
 
 const insertData = async () => {

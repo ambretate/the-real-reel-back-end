@@ -1,42 +1,155 @@
 [
-    {
-      "_id": "65f9a82e38735e11e39e8659",
-      "username": "john_doe",
-      "email": "john@example.com",
-      "password_digest": "hashed_password_123",
-      "following": ["65f9a82e38735e11e39e865b"],
-      "followers": ["65f9a82e38735e11e39e865a", "65f9a82e38735e11e39e865c"]
-    },
-    {
-      "_id": "65f9a82e38735e11e39e865a",
-      "username": "jane_smith",
-      "email": "jane@example.com",
-      "password_digest": "hashed_password_456",
-      "following": ["65f9a82e38735e11e39e8659", "65f9a82e38735e11e39e865d"],
-      "followers": ["65f9a82e38735e11e39e865c"]
-    },
-    {
-      "_id": "65f9a82e38735e11e39e865b",
-      "username": "alice_jackson",
-      "email": "alice@example.com",
-      "password_digest": "hashed_password_789",
-      "following": ["65f9a82e38735e11e39e865a"],
-      "followers": ["65f9a82e38735e11e39e865a", "65f9a82e38735e11e39e865c"]
-    },
-    {
-      "_id": "65f9a82e38735e11e39e865c",
-      "username": "bob_carter",
-      "email": "bob@example.com",
-      "password_digest": "hashed_password_abc",
-      "following": ["65f9a82e38735e11e39e8659", "65f9a82e38735e11e39e865b"],
-      "followers": []
-    },
-    {
-      "_id": "65f9a82e38735e11e39e865d",
-      "username": "emma_wilson",
-      "email": "emma@example.com",
-      "password_digest": "hashed_password_def",
-      "following": ["65f9a82e38735e11e39e865a"],
-      "followers": ["65f9a82e38735e11e39e865c", "65f9a82e38735e11e39e8659"]
-    }
-  ]  
+  {
+    "_id": "65f9a82e38735e11e39e8659",
+    "username": "john_doe",
+    "email": "john@example.com",
+    "password_digest": "hashed_password_123",
+    "profilePicture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "following": ["65f9a82e38735e11e39e865b"],
+    "followers": ["65f9a82e38735e11e39e865a", "65f9a82e38735e11e39e865c"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e865a",
+    "username": "jane_smith",
+    "email": "jane@example.com",
+    "password_digest": "hashed_password_456",
+    "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "following": ["65f9a82e38735e11e39e8659", "65f9a82e38735e11e39e865d"],
+    "followers": ["65f9a82e38735e11e39e865c"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e865b",
+    "username": "alice_jackson",
+    "email": "alice@example.com",
+    "password_digest": "hashed_password_789",
+    "profilePicture": "https://randomuser.me/api/portraits/women/3.jpg",
+    "following": ["65f9a82e38735e11e39e865a"],
+    "followers": ["65f9a82e38735e11e39e865a", "65f9a82e38735e11e39e865c"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e865c",
+    "username": "bob_carter",
+    "email": "bob@example.com",
+    "password_digest": "hashed_password_abc",
+    "profilePicture": "https://randomuser.me/api/portraits/men/4.jpg",
+    "following": ["65f9a82e38735e11e39e8659", "65f9a82e38735e11e39e865b"],
+    "followers": []
+  },
+  {
+    "_id": "65f9a82e38735e11e39e865d",
+    "username": "emma_wilson",
+    "email": "emma@example.com",
+    "password_digest": "hashed_password_def",
+    "profilePicture": "https://randomuser.me/api/portraits/women/5.jpg",
+    "following": ["65f9a82e38735e11e39e865a"],
+    "followers": ["65f9a82e38735e11e39e865c", "65f9a82e38735e11e39e8659"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e865e",
+    "username": "david_miller",
+    "email": "david@example.com",
+    "password_digest": "hashed_password_ghi",
+    "profilePicture": "https://randomuser.me/api/portraits/men/6.jpg",
+    "following": ["65f9a82e38735e11e39e865f"],
+    "followers": ["65f9a82e38735e11e39e8659", "65f9a82e38735e11e39e865c"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e865f",
+    "username": "sophia_robinson",
+    "email": "sophia@example.com",
+    "password_digest": "hashed_password_jkl",
+    "profilePicture": "https://randomuser.me/api/portraits/women/7.jpg",
+    "following": ["65f9a82e38735e11e39e865e"],
+    "followers": ["65f9a82e38735e11e39e865d", "65f9a82e38735e11e39e865b"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e8660",
+    "username": "william_adams",
+    "email": "william@example.com",
+    "password_digest": "hashed_password_mno",
+    "profilePicture": "https://randomuser.me/api/portraits/men/8.jpg",
+    "following": ["65f9a82e38735e11e39e8661"],
+    "followers": ["65f9a82e38735e11e39e8662", "65f9a82e38735e11e39e8663"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e8661",
+    "username": "olivia_taylor",
+    "email": "olivia@example.com",
+    "password_digest": "hashed_password_pqr",
+    "profilePicture": "https://randomuser.me/api/portraits/women/9.jpg",
+    "following": ["65f9a82e38735e11e39e8660"],
+    "followers": ["65f9a82e38735e11e39e8664"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e8662",
+    "username": "james_thomas",
+    "email": "james@example.com",
+    "password_digest": "hashed_password_stu",
+    "profilePicture": "https://randomuser.me/api/portraits/men/10.jpg",
+    "following": ["65f9a82e38735e11e39e8660"],
+    "followers": ["65f9a82e38735e11e39e8659"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e8663",
+    "username": "amelia_anderson",
+    "email": "amelia@example.com",
+    "password_digest": "hashed_password_vwx",
+    "profilePicture": "https://randomuser.me/api/portraits/women/11.jpg",
+    "following": ["65f9a82e38735e11e39e8660"],
+    "followers": ["65f9a82e38735e11e39e865a"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e8664",
+    "username": "benjamin_wilson",
+    "email": "benjamin@example.com",
+    "password_digest": "hashed_password_yz",
+    "profilePicture": "https://randomuser.me/api/portraits/men/12.jpg",
+    "following": ["65f9a82e38735e11e39e8661"],
+    "followers": []
+  },
+  {
+    "_id": "65f9a82e38735e11e39e8665",
+    "username": "emily_johnson",
+    "email": "emily@example.com",
+    "password_digest": "hashed_password_abc123",
+    "profilePicture": "https://randomuser.me/api/portraits/women/13.jpg",
+    "following": [],
+    "followers": ["65f9a82e38735e11e39e8666"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e8666",
+    "username": "michael_brown",
+    "email": "michael@example.com",
+    "password_digest": "hashed_password_def456",
+    "profilePicture": "https://randomuser.me/api/portraits/men/14.jpg",
+    "following": ["65f9a82e38735e11e39e8665"],
+    "followers": []
+  },
+  {
+    "_id": "65f9a82e38735e11e39e8667",
+    "username": "oliver_garcia",
+    "email": "oliver@example.com",
+    "password_digest": "hashed_password_ghi789",
+    "profilePicture": "https://randomuser.me/api/portraits/men/15.jpg",
+    "following": [],
+    "followers": ["65f9a82e38735e11e39e8668"]
+  },
+  {
+    "_id": "65f9a82e38735e11e39e8668",
+    "username": "ava_martinez",
+    "email": "ava@example.com",
+    "password_digest": "hashed_password_jkl012",
+    "profilePicture": "https://randomuser.me/api/portraits/women/16.jpg",
+    "following": ["65f9a82e38735e11e39e8667"],
+    "followers": []
+  },
+  {
+    "_id": "65f9a82e38735e11e39e8669",
+    "username": "noah_rodriguez",
+    "email": "noah@example.com",
+    "password_digest": "hashed_password_mno345",
+    "profilePicture": "https://randomuser.me/api/portraits/men/17.jpg",
+    "following": [],
+    "followers": ["65f9a82e38735e11e39e8670"]
+  }
+]
