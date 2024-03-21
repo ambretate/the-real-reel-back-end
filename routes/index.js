@@ -11,6 +11,6 @@ router.get("/", (request, response) =>
 
 router.use("/movies", movieRoutes);
 router.use("/users", userRoutes);
-// router.use("/reviews", reviewRoutes);
+router.use("/reviews", reviewRoutes);
 
 export default router;
