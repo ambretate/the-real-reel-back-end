@@ -21,6 +21,65 @@
       "review": "An absolute gem of a movie! I highly recommend it to everyone.",
       "hasSpoilers": false
       
-    }
+    },
+    [
+      {
+        "_id": "65f9cee863a063de78f545f8",
+        "userID": "65f9a82e38735e11e39e8659",
+        "movieID": "5fb63ecab5ab97135cd4ddfe",
+        "title": "Gem of a Movie",
+        "review": "An absolute gem of a movie! I highly recommend it to everyone.",
+        "hasSpoilers": false
+      },
+      {
+        "_id": "65f9cee863a063de78f545f9",
+        "userID": "65f9a82e38735e11e39e865a",
+        "movieID": "5fb63ecab5ab97135cd4ddfe",
+        "title": "Captivating Performances",
+        "review": "A captivating story with brilliant performances. Definitely worth watching!",
+        "hasSpoilers": false
+      },
+      {
+        "_id": "65f9cee863a063de78f545fa",
+        "userID": "65f9a82e38735e11e39e865b",
+        "movieID": "5fb63ecab5ab97135cd4ddfe",
+        "title": "Outstanding Cinematography and Soundtrack",
+        "review": "Absolutely loved it! The cinematography and soundtrack were outstanding.",
+        "hasSpoilers": false
+      },
+      {
+        "_id": "65f9cee863a063de78f545fb",
+        "userID": "65f9a82e38735e11e39e865c",
+        "movieID": "5fb63ecab5ab97135cd4ddfe",
+        "title": "One of the Best Movies in Years",
+        "review": "One of the best movies I've seen in years. Highly recommend!",
+        "hasSpoilers": false
+      },
+      {
+        "_id": "65f9cee863a063de78f545fc",
+        "userID": "65f9a82e38735e11e39e865d",
+        "movieID": "5fb63ecab5ab97135cd4ddfe",
+        "title": "Incredible Film",
+        "review": "Incredible film! It left me speechless. A must-watch for sure!",
+        "hasSpoilers": false
+      },
+      {
+        "_id": "65f9cee863a063de78f545fd",
+        "userID": "65f9a82e38735e11e39e865e",
+        "movieID": "5fb63ecab5ab97135cd4ddfe",
+        "title": "Masterpiece",
+        "review": "A masterpiece! I was completely immersed from start to finish.",
+        "hasSpoilers": false
+      },
+      {
+        "_id": "65f9cee863a063de78f545f3",
+        "userID": "65f9a82e38735e11e39e865f",
+        "movieID": "5fb63ecab5ab97135cd4ddfe",
+        "title": "Blown Away",
+        "review": "This movie blew me away! I couldn't take my eyes off the screen.",
+        "hasSpoilers": false
+      }
+    ]
+    
   ]
   
