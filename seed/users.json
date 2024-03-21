@@ -4,7 +4,7 @@
     "username": "john_doe",
     "email": "john@example.com",
     "password_digest": "hashed_password_123",
-    "profilePicture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture1.jpeg`)",
     "following": ["65f9a82e38735e11e39e865b"],
     "followers": ["65f9a82e38735e11e39e865a", "65f9a82e38735e11e39e865c"]
   },
@@ -13,7 +13,7 @@
     "username": "jane_smith",
     "email": "jane@example.com",
     "password_digest": "hashed_password_456",
-    "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture2.jpeg`)",
     "following": ["65f9a82e38735e11e39e8659", "65f9a82e38735e11e39e865d"],
     "followers": ["65f9a82e38735e11e39e865c"]
   },
@@ -22,7 +22,7 @@
     "username": "alice_jackson",
     "email": "alice@example.com",
     "password_digest": "hashed_password_789",
-    "profilePicture": "https://randomuser.me/api/portraits/women/3.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture3.jpeg`)",
     "following": ["65f9a82e38735e11e39e865a"],
     "followers": ["65f9a82e38735e11e39e865a", "65f9a82e38735e11e39e865c"]
   },
@@ -31,7 +31,7 @@
     "username": "bob_carter",
     "email": "bob@example.com",
     "password_digest": "hashed_password_abc",
-    "profilePicture": "https://randomuser.me/api/portraits/men/4.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture4.jpeg`)",
     "following": ["65f9a82e38735e11e39e8659", "65f9a82e38735e11e39e865b"],
     "followers": []
   },
@@ -40,7 +40,7 @@
     "username": "emma_wilson",
     "email": "emma@example.com",
     "password_digest": "hashed_password_def",
-    "profilePicture": "https://randomuser.me/api/portraits/women/5.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture5.jpeg`)",
     "following": ["65f9a82e38735e11e39e865a"],
     "followers": ["65f9a82e38735e11e39e865c", "65f9a82e38735e11e39e8659"]
   },
@@ -49,7 +49,7 @@
     "username": "david_miller",
     "email": "david@example.com",
     "password_digest": "hashed_password_ghi",
-    "profilePicture": "https://randomuser.me/api/portraits/men/6.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture6.jpeg`)",
     "following": ["65f9a82e38735e11e39e865f"],
     "followers": ["65f9a82e38735e11e39e8659", "65f9a82e38735e11e39e865c"]
   },
@@ -58,7 +58,7 @@
     "username": "sophia_robinson",
     "email": "sophia@example.com",
     "password_digest": "hashed_password_jkl",
-    "profilePicture": "https://randomuser.me/api/portraits/women/7.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture7.jpeg`)",
     "following": ["65f9a82e38735e11e39e865e"],
     "followers": ["65f9a82e38735e11e39e865d", "65f9a82e38735e11e39e865b"]
   },
@@ -67,7 +67,7 @@
     "username": "william_adams",
     "email": "william@example.com",
     "password_digest": "hashed_password_mno",
-    "profilePicture": "https://randomuser.me/api/portraits/men/8.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture8.jpeg`)",
     "following": ["65f9a82e38735e11e39e8661"],
     "followers": ["65f9a82e38735e11e39e8662", "65f9a82e38735e11e39e8663"]
   },
@@ -76,7 +76,7 @@
     "username": "olivia_taylor",
     "email": "olivia@example.com",
     "password_digest": "hashed_password_pqr",
-    "profilePicture": "https://randomuser.me/api/portraits/women/9.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture9.jpeg`)",
     "following": ["65f9a82e38735e11e39e8660"],
     "followers": ["65f9a82e38735e11e39e8664"]
   },
@@ -85,7 +85,7 @@
     "username": "james_thomas",
     "email": "james@example.com",
     "password_digest": "hashed_password_stu",
-    "profilePicture": "https://randomuser.me/api/portraits/men/10.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture10.jpeg`)",
     "following": ["65f9a82e38735e11e39e8660"],
     "followers": ["65f9a82e38735e11e39e8659"]
   },
@@ -94,7 +94,7 @@
     "username": "amelia_anderson",
     "email": "amelia@example.com",
     "password_digest": "hashed_password_vwx",
-    "profilePicture": "https://randomuser.me/api/portraits/women/11.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture11.jpeg`)",
     "following": ["65f9a82e38735e11e39e8660"],
     "followers": ["65f9a82e38735e11e39e865a"]
   },
@@ -103,7 +103,7 @@
     "username": "benjamin_wilson",
     "email": "benjamin@example.com",
     "password_digest": "hashed_password_yz",
-    "profilePicture": "https://randomuser.me/api/portraits/men/12.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture12.jpeg`)",
     "following": ["65f9a82e38735e11e39e8661"],
     "followers": []
   },
@@ -112,7 +112,7 @@
     "username": "emily_johnson",
     "email": "emily@example.com",
     "password_digest": "hashed_password_abc123",
-    "profilePicture": "https://randomuser.me/api/portraits/women/13.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture13.jpeg`)",
     "following": [],
     "followers": ["65f9a82e38735e11e39e8666"]
   },
@@ -121,7 +121,7 @@
     "username": "michael_brown",
     "email": "michael@example.com",
     "password_digest": "hashed_password_def456",
-    "profilePicture": "https://randomuser.me/api/portraits/men/14.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture14.jpeg`)",
     "following": ["65f9a82e38735e11e39e8665"],
     "followers": []
   },
@@ -130,7 +130,7 @@
     "username": "oliver_garcia",
     "email": "oliver@example.com",
     "password_digest": "hashed_password_ghi789",
-    "profilePicture": "https://randomuser.me/api/portraits/men/15.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture15.jpeg`)",
     "following": [],
     "followers": ["65f9a82e38735e11e39e8668"]
   },
@@ -139,7 +139,7 @@
     "username": "ava_martinez",
     "email": "ava@example.com",
     "password_digest": "hashed_password_jkl012",
-    "profilePicture": "https://randomuser.me/api/portraits/women/16.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture16.jpeg`)",
     "following": ["65f9a82e38735e11e39e8667"],
     "followers": []
   },
@@ -148,7 +148,7 @@
     "username": "noah_rodriguez",
     "email": "noah@example.com",
     "password_digest": "hashed_password_mno345",
-    "profilePicture": "https://randomuser.me/api/portraits/men/17.jpg",
+    "profilePicture": "fs.readFileSync(`profilePicture17.jpeg`)",
     "following": [],
     "followers": ["65f9a82e38735e11e39e8670"]
   }
