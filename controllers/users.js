@@ -200,7 +200,7 @@ export const getUserTimeline = async (request, response) => {
       console.log(user)
 
       const timelinePromises = user.following.map((followedUser) => {
-        return Review.findOne({ userID: followedUser._id}).sort({ createdAt: -1}).populate("userID")
+        return Review.findOne({ userID: followedUser._id}).sort({ createdAt: -1}).populate("userID movieID")
       })
       
       const timeline = await Promise.all(timelinePromises)
