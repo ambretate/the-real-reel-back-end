@@ -77,7 +77,7 @@ export const getUserByEmail = async (request, response) => {
 export const updateUser = async (request, response) => {
   try {
     const { id } = request.params;
-    const user = await User.findByIdandUpdate(id, request.body);
+    const user = await User.findByIdAndUpdate(id, request.body);
     response.status(201).json(user);
   } catch (error) {
     console.error(error);
