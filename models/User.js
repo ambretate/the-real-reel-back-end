@@ -20,7 +20,7 @@ const UserSchema = new Schema(
       select: false,
     },
     profilePicture: {
-      type: Buffer,
+      type: String,
       required: false,
     },
     following: [{ type: Schema.Types.ObjectId, ref: "users" }],
