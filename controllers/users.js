@@ -127,12 +127,13 @@ export const deleteUser = async (request, response) => {
 
 export const signUp = async (request, response) => {
   try {
-    const { username, email, password } = request.body;
+    const { username, email, password, profilePicture } = request.body;
     const password_digest = await bcrypt.hash(password, SALT_ROUNDS);
     const user = new User({
       username,
       email,
       password_digest,
+      profilePicture, 
       following: [],
       followers: [],
     });
@@ -143,6 +144,7 @@ export const signUp = async (request, response) => {
       id: user._id,
       username: user.username,
       email: user.email,
+      profilePicture: user.profilePicture,
       exp: parseInt(exp.getTime() / 1000),
     };
 
@@ -153,6 +155,7 @@ export const signUp = async (request, response) => {
     response.status(400).json({ error: error.message });
   }
 };
+
 
 export const signIn = async (request, response) => {
   try {
