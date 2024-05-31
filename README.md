@@ -2,7 +2,7 @@
 
 ## Overview
 
-Movie Reviewer is a web platform dedicated to movie enthusiasts who want to share their thoughts, opinions, and reviews about their favorite (or least favorite) films. It provides a space for users to create personalized profiles, follow other users, and engage in discussions about movies.
+The Real Reel is a web platform dedicated to movie enthusiasts who want to share their thoughts, opinions, and reviews about their favorite (or least favorite) films. It provides a space for users to create personalized profiles, follow other users, and engage in discussions about movies.
 
 ## ERD
 
